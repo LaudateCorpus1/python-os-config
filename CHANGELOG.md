@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/googleapis/python-os-config/compare/v1.9.0...v1.10.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#158](https://github.com/googleapis/python-os-config/issues/158)) ([4de2275](https://github.com/googleapis/python-os-config/commit/4de22754f2d45bfce7c20b97f0a6a6a2f30b7a97))
+
 ## [1.9.0](https://www.github.com/googleapis/python-os-config/compare/v1.8.0...v1.9.0) (2021-11-11)
 
 
